@@ -9,4 +9,4 @@ In the terminal type: python kNN.py
 The code will begin to run and upon terminate a csv file by the name k_scores.csv will have been created. This file will hold the accuracy of the
 tests peformed by the Python code.
 
-![alt text](https://raw.github.com/ataffe/Detecting-ASL-Gestures-Project/Code/k_graph.PNG)
+![alt text](https://raw.github.com/ataffe/Detecting-ASL-Gestures-Project/master/Code/k_graph.png)
